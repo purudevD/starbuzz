@@ -1,0 +1,61 @@
+[33mcommit 0f8ace5d2687d7592888fd6ea7c8798a24fddd96[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Purnendu.Mukherjee1 <purnendu.mukherjee1@ab-inbev.com>
+Date:   Thu Jan 25 17:58:39 2024 +0530
+
+    Addresses for 3
+
+[33mcommit bde822f7812a494daee3a8bac47602a3a76475cf[m
+Author: Purnendu.Mukherjee1 <purnendu.mukherjee1@ab-inbev.com>
+Date:   Thu Jan 25 17:52:17 2024 +0530
+
+    Last three changes in directions.html reverted
+
+[33mcommit 82a2f385b697f9831ea733065695f3b450b079b2[m
+Author: Purnendu.Mukherjee1 <purnendu.mukherjee1@ab-inbev.com>
+Date:   Thu Jan 25 17:24:18 2024 +0530
+
+    Mantu Address
+
+[33mcommit 6475d9bd256c2c31c050dedf4b41b558851b0707[m
+Author: Purnendu.Mukherjee1 <purnendu.mukherjee1@ab-inbev.com>
+Date:   Thu Jan 25 17:23:07 2024 +0530
+
+    Jamshedpur Address
+
+[33mcommit a1e671ccc8a9a13ca226969727920cd1700172a4[m
+Author: Purnendu.Mukherjee1 <purnendu.mukherjee1@ab-inbev.com>
+Date:   Thu Jan 25 17:21:28 2024 +0530
+
+    Varthur Address
+
+[33mcommit 3805a638bfe466c8e472aa12d8f12e0108750224[m
+Author: Purnendu.Mukherjee1 <purnendu.mukherjee1@ab-inbev.com>
+Date:   Thu Jan 25 17:09:50 2024 +0530
+
+    Revert "add varthur address:"
+    
+    This reverts commit 3cb25cc72476af5fd644cbc96fe128c3263da479.
+
+[33mcommit 3cb25cc72476af5fd644cbc96fe128c3263da479[m
+Author: Purnendu.Mukherjee1 <purnendu.mukherjee1@ab-inbev.com>
+Date:   Thu Jan 25 17:08:21 2024 +0530
+
+    add varthur address:
+
+[33mcommit 59575dd6fc173795e165fad6aa6c6d3e8b622716[m
+Author: Purnendu.Mukherjee1 <purnendu.mukherjee1@ab-inbev.com>
+Date:   Thu Jan 25 16:46:44 2024 +0530
+
+    commit as practice
+
+[33mcommit 9488300c4fb9f7c12bfbe68f00b6045bd99e401f[m
+Author: Purnendu.Mukherjee1 <purnendu.mukherjee1@ab-inbev.com>
+Date:   Thu Jan 25 16:19:44 2024 +0530
+
+    Changes made to elixir.html
+
+[33mcommit c76b75c8e1261abc2bf911455e28f67174a938ca[m
+Author: Purnendu.Mukherjee1 <purnendu.mukherjee1@ab-inbev.com>
+Date:   Thu Jan 25 16:11:05 2024 +0530
+
+    Initial Commit
